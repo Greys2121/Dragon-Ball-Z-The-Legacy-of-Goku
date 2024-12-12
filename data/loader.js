@@ -69,7 +69,7 @@
         await loadScript('socket.io.min.js');
         await loadStyle('emulator.css');
     } else {
-        await loadScript('emulator.min.js');
+        await loadScript('emulator.min.js?Ds43433sssssssssss3');
         await loadStyle('emulator.min.css');
     }
     const config = {};
